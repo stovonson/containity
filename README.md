@@ -4,8 +4,9 @@
 
 <p></p>
 
-<a href="https://modrinth.com/project/containity/"><img src="https://i.ibb.co/VcjK6GgK/modrinth-46h.png" alt="Modrinth"></a>
-<a href="https://ko-fi.com/stovonson"><img alt="Ko-Fi" src="https://i.ibb.co/fzdWbrQL/kofi-singular-46h.png"></a>
+[![Modrinth](https://img.shields.io/badge/modrinth-%23000000.svg?style=for-the-badge&logo=modrinth&logoColor=%2300af5c)](https://modrinth.com/project/containity/)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/stovonson)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/stovonson)
 
 </center>
 
